@@ -1,2 +1,2 @@
 # GIST
-https://gist.github.com/J1SHAIL
+https://gist.github.com/J1-SHAIL
